@@ -3,7 +3,7 @@ Command Line Arguments:
     arch = vgg 
  dogfile = dognames.txt
 
-Pet Image Label Dictionary has 40 key-value pairs.
+Pet Image Label Dictionary has 40 key-value pairs..
 Below are 10 of them:
  1 key:           Great_dane_05320.jpg  label:                 great dane
  2 key:               Beagle_01125.jpg  label:                     beagle
@@ -16,7 +16,7 @@ Below are 10 of them:
  9 key:     Golden_retriever_05223.jpg  label:           golden retriever
 10 key:        great_horned_owl_02.jpg  label:           great horned owl
 
-Filename= Great_dane_05320.jpg 
+Filename= Great_dane_05320.jpg
 pet_image Label= great dane 
 Classifier Label= great dane 
 match= 1

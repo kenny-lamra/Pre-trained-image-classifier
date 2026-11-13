@@ -1,6 +1,6 @@
 # Pre-trained-image-classifier
 Using python write a pretrained image classifier to classify dog breeds
-This project was part of the [AI-Programming with Python Nanodregree by Udacity](https://www.udacity.com/enrollment/nd915).
+This project was part of the [Future AWS AI Programmers Nanodregree by Udacity](https://www.udacity.com/enrollment/nd915).
 
 ### Principal Objectives
 
